@@ -48,7 +48,7 @@ The project comprises the following key components:
 ![Slope Detection Diagram](photos/mounted.jpg)
 
 The form of the assembled hardware is shown below:
-![final intergation](images/intergation.jpg)
+![final intergation](photos/intergation.jpg)
 
 ### Software Setup
 1. Clone this repository:
