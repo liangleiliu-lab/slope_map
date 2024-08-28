@@ -45,10 +45,10 @@ The project comprises the following key components:
 ![box](photos/box.png)
 ![cover](photos/cover.png)
 4. Ensure secure mounting on the bicycle using a custom 3D-printed clamp.
-![Slope Detection Diagram](photos/mounted.png)
+![Slope Detection Diagram](photos/mounted.jpg)
 
 The form of the assembled hardware is shown below:
-![final intergation](images/intergation.png)
+![final intergation](images/intergation.jpg)
 
 ### Software Setup
 1. Clone this repository:
